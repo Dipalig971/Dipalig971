@@ -1,7 +1,6 @@
 ![Header](./github-header-image.png)
 
 
-
 <h1 align="center">Hi 👋, I'm Gunjal dipali</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
 <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" align="right" width="500px">
