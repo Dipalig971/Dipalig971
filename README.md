@@ -9,14 +9,9 @@
 
 - 🌱 I’m currently learning **flutter development**
 
-- 👯 I’m looking to collaborate on **core flutter**
-
-- 💬 Ask me about **c,c++,java,dart**
+- 💬 Ask me about **c,c++,dart**
 
 - 📫 How to reach me **dipaligunjal971@gmail.com**
-
-- ⚡ Fun fact **i am funny**
-
 
 
 <h3 align="left">Connect with me:</h3>
